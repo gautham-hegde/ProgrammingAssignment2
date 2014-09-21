@@ -1,3 +1,6 @@
+### Updated
+Thanks for reading.  Im pretty sure I got it right.  The second time around.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
